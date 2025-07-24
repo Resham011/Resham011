@@ -42,7 +42,7 @@ A content-based recommendation engine built using NLP and cosine similarity.
 
 ---
 
-## 🧑‍💻 Full-Stack Projects
+## 💡 Full-Stack Projects
 
 ### 🌐 Portfolio Website
 A responsive and interactive personal portfolio with full CRUD support and Nodemailer-based contact.
