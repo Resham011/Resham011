@@ -1,95 +1,122 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" />
-<h1>Hi there, I'm Resham</h1>
-<p>
-I'm a passionate Computer Science student from India with a strong interest in Full-Stack Development and Machine Learning. I love building things for the web, solving complex problems, and constantly learning new technologies.
-</p>
+  <h1>Hi there, I'm Resham 👋</h1>
+  <p>
+    A Computer Science student from India with a strong passion for Full-Stack Development and Machine Learning. I love building intuitive UIs, solving algorithmic problems, and applying ML to real-world use cases.
+  </p>
 
-<p>
-<a href="https://www.linkedin.com/in/resham-3b438a281/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
-<a href="mailto:resham2987@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<!-- Add your portfolio link here -->
-<a href="YOUR_PORTFOLIO_LINK_HERE"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-255E63%3Fstyle%3Dfor-the-badge%26logo%3Drss%26logoColor%3Dwhite" /></a>
-</p>
+  <p>
+    <a href="https://www.linkedin.com/in/resham-3b438a281/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:resham2987@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://portfolio-frontend-bse0.onrender.com/">
+      <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=rss&logoColor=white" />
+    </a>
+    <a href="https://codolio.com/profile/Resham298">
+      <img src="https://img.shields.io/badge/Coding%20Profile-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  </p>
 </div>
 
-🚀 What I'm Up To
-🔭 I’m currently working on enhancing my MERN stack skills.
+---
 
-🌱 I’m currently learning about System Design and advanced ML algorithms.
+## 🚀 What I'm Working On
+- 🔭 MERN Stack mastery with real-time applications.
+- 🤖 Building scalable ML models with Streamlit, scikit-learn, and NLP.
+- 📚 Actively strengthening my Data Structures and Algorithms skills with over 800 problems solved across coding platforms.
+- 💬 Open to collaboration on Web or AI-based projects.
 
-👯 I’m looking to collaborate on innovative web development or AI/ML projects.
+---
 
-💬 Ask me about React, Node.js, DSA, or anything tech-related!
+## 💡 Machine Learning Projects
 
-📫 How to reach me: resham2987@gmail.com
+### 🎬 Movie Recommendation System
+A content-based recommendation engine built using NLP and cosine similarity.
 
-💻 Languages and Tools
+- 🔍 **Dataset**: TMDB 5000 Movies
+- 🧠 **Features**: Title, genres, keywords, cast, crew (engineered using NLP)
+- ⚙️ **Tech**: Python, Streamlit, scikit-learn, Pickle, TMDB API
+- 🌐 [Live Demo](https://movie-recommendation-system-e8pjs6dvu6pcx6ctfhd3hj.streamlit.app/) | [GitHub Repo](https://github.com/Resham011/Movie-Recomendation-System)
+
+---
+
+## 🧑‍💻 Full-Stack Projects
+
+### 🌐 Portfolio Website
+A responsive and interactive personal portfolio with full CRUD support and Nodemailer-based contact.
+
+- ⚙️ **Stack**: React, Node.js, Express, MongoDB, Tailwind, Vite
+- 🌐 [Live Demo](https://portfolio-frontend-bse0.onrender.com/) | [GitHub Repo](https://github.com/Resham011/Portfolio-Website)
+
+---
+
+## 🛠️ Skills & Tech Stack
+
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcpp,java,python,js,html,css,react,nodejs,express,mongodb,tailwind,vite,git,github,vscode,postman,figma" />
-</a>
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,sql" title="C++, Java, Python, SQL" />
 </p>
 
-🏆 My Coding Profiles
 <p align="center">
-<!-- Add your LeetCode profile link here -->
-<a href="YOUR_LEETCODE_PROFILE_LINK_HERE"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3Dleetcode%26logoColor%3Dblack" /></a>
-<!-- Add your Codolio profile link here -->
-<a href="YOUR_CODOLIO_PROFILE_LINK_HERE"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Codolio-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dcodio%26logoColor%3Dwhite" /></a>
+  <!-- Full-Stack -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,vite" title="Full Stack Dev" />
 </p>
 
-✨ My Projects
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">Portfolio Website</h3>
-<br />
 <p align="center">
-A full-stack personal portfolio built with the MERN stack. Showcases my skills and projects with a responsive, animated UI, theme support, and a working contact form using Nodemailer.
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,jupyter" title="Tools and IDEs" />
 </p>
-<br />
-<p align="center">
-<strong>Tech Stack:</strong> React.js, Node.js, Express.js, MongoDB, Tailwind CSS
-</p>
-<p align="center">
-<!-- Add your portfolio live demo link here -->
-<a href="YOUR_PORTFOLIO_LIVE_DEMO_LINK">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Live_Demo-255E63%3Fstyle%3Dfor-the-badge%26logo%3Drss%26logoColor%3Dwhite" />
-</a>
-<a href="https://www.google.com/search?q=https://github.com/Resham011/Portfolio-Website">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
-</a>
-</p>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">Movie Recommendation System</h3>
-<br />
-<p align="center">
-A content-based movie recommender system using NLP and cosine similarity. Features an interactive frontend built with Streamlit and integration with the TMDB API for dynamic content.
-</p>
-<br />
-<p align="center">
-<strong>Tech Stack:</strong> Python, Streamlit, Machine Learning, Pandas
-</p>
-<p align="center">
-<!-- Add your movie recommender live demo link here -->
-<a href="YOUR_MOVIE_RECOMMENDER_LIVE_DEMO_LINK">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Live_Demo-FF6347%3Fstyle%3Dfor-the-badge%26logo%3Drocket%26logoColor%3Dwhite" />
-</a>
-<a href="https://www.google.com/search?q=https://github.com/Resham011/Movie-Recomendation-System">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
-</a>
-</p>
-</td>
-</tr>
-</table>
 
-📊 My GitHub Stats
+<p align="center">
+  <!-- Concepts -->
+  <b>💡 Core CS Concepts:</b> Object-Oriented Programming (OOP), DBMS, Operating System, DSA (800+ problems)
+</p>
+
+<p align="center">
+  <!-- ML Tools -->
+  <b>🧠 ML Libraries:</b> NumPy, Pandas, Scikit-learn, Pickle, NLP, Streamlit
+</p>
+
+
+---
+
+## 🏆 Achievements
+
+- 👨‍💻 Solved **800+ DSA problems** on LeetCode & Codolio  
+  [Codolio Profile](https://codolio.com/profile/Resham298)
+- 📊 **LeetCode Stats:**
+  - 🌐 Global Ranking: **148,654 / 720,317**  
+  - 🏁 Contest Rating: **1,616** (Top **21.04%**)  
+  - 🏆 Contests Attended: **42**
+- 🏅 Earned **19 Badges** on LeetCode including:
+  - 🔵 **365 Days Badge**
+  - 🟣 **500 Days Badge**
+  - 🟢 **100 Days Badge (2025)**
+- 🏁 Top 7 Finalist at **HackIndia Hackathon**, selected from across Uttarakhand
+- 💼 Open Source Contributor at **GirlScript Summer of Code '25**  
+  [GSSoC Website »](https://gssoc.girlscript.tech/)
+---
+
+## 🤝 Experience
+
+### 🧩 Open Source Contributor (GSSoC '25)
+Contributing to open-source projects using React, Vite, and Tailwind.  
+[More about GSSoC](https://gssoc.girlscript.tech/)
+
+### 🌐 Web Content Intern @ GAO Tek Inc.
+Worked on WordPress SEO-based product listings and remote CMS operations.  
+[GAO Tek](https://www.gaotek.com)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DResham011%26show_icons%3Dtrue%26locale%3Den%26theme%3Dtokyonight" alt="Resham's GitHub Stats" />
-<br/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DResham011%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Dtokyonight" alt="Resham's Top Languages" />
-<br/>
-<img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3DResham011%26theme%3Dtokyonight" alt="Resham's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Resham011&show_icons=true&locale=en&theme=tokyonight" alt="stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Resham011&layout=compact&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Resham011&theme=tokyonight" alt="GitHub Streak" />
 </div>
