@@ -11,9 +11,9 @@
     <a href="mailto:resham2987@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://portfolio-resham.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=rss&logoColor=white" alt="Portfolio Badge" />
-    </a>
+   <a href="https://portfolio-resham.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=rss&logoColor=white" />
+</a>
     <a href="https://codolio.com/profile/Resham298">
       <img src="https://img.shields.io/badge/Coding%20Profile-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
