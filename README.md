@@ -42,16 +42,6 @@ A content-based recommendation engine built using NLP and cosine similarity.
 
 ---
 
-## 💡 Full-Stack Projects
-
-### 🌐 Portfolio Website
-A responsive and interactive personal portfolio with full CRUD support and Nodemailer-based contact.
-
-- ⚙️ **Stack**: React, Node.js, Express, MongoDB, Tailwind, Vite
-- 🌐 [Live Demo](https://portfolio-frontend-bse0.onrender.com/) | [GitHub Repo](https://github.com/Resham011/Portfolio-Website)
-
----
-
 ## 🛠️ Skills & Tech Stack
 
 <p align="center">
