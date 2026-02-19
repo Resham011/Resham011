@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="/cdn-cgi/l/email-protection#255740564d4448171c1d12654248444c490b464a48">📧 Email</a> •
+  <a href="resham2987@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/resham-3b438a281/">💼 LinkedIn</a> •
   <a href="https://portfolio-three-chi-iwz6yy3ki4.vercel.app/">🌐 Portfolio</a> •
   <a href="https://codolio.com/profile/Resham298">🧩 Coding Profile</a>
@@ -77,7 +77,7 @@ Built a **production-ready multi-document RAG pipeline** that lets users chat wi
 - 🛡️ Implemented citation grounding + fallback responses to mitigate hallucinations
 - 🔧 Pipeline: PDF → 800/150 token chunking → Cohere embeddings → FAISS → MMR retrieval → LLM synthesis
 
-[🔗 Live](https://pdf-rag-chatbot-five.vercel.app) • [📂 GitHub](#) • [🎬 Demo](#)
+[🔗 Live](https://pdf-rag-chatbot-five.vercel.app) • [📂 GitHub](https://github.com/Resham011/pdf-rag-chatbot) • [🎬 Demo](https://drive.google.com/file/d/1q0ltsKgpwLiPMGQ-PO4k4pBLw-WcibL5/view?usp=drive_link)
 
 ---
 
@@ -91,7 +91,7 @@ Built an **adaptive spaced-repetition system** to solve inconsistent DSA revisio
 - 🔐 Secure JWT auth with refresh token rotation; deployed on Vercel with production configs
 - 📅 Daily streak tracking, analytics dashboard, dynamic MongoDB schema for fast filtering
 
-[🔗 Live](#) • [📂 GitHub](#) • [🎬 Demo](#)
+[🔗 Live](https://algorecall-vert.vercel.app/) • [📂 GitHub](https://github.com/Resham011/AlgoRecall) • [🎬 Demo](https://drive.google.com/file/d/1SYH13RrisPHmimFCWD8ia2o9Sqo4rStI/view?usp=sharing)
 
 ---
 
@@ -104,7 +104,7 @@ Built a recommendation engine that suggests similar movies based on plot, genres
 - ✅ Validated across **50+ real-world searches** for accurate top suggestions
 - 🎨 Deployed interactive Streamlit app with TMDB API-powered poster previews
 
-[🔗 Live](#) • [📂 GitHub](#) • [🎬 Demo](#)
+[🔗 Live](https://movie-recommendation-system-e8pjs6dvu6pcx6ctfhd3hj.streamlit.app/) • [📂 GitHub](https://github.com/Resham011/Movie-Recommendation-System) • [🎬 Demo](https://drive.google.com/file/d/1w8420oeF4mMcytAuJlnyMAW8fH-kO4Z_/view?usp=sharing)
 
 ---
 
