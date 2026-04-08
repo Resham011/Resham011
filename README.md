@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="resham2987@gmail.com">📧 Email</a> •
+  <a href="resham2987@gmail.com">📧 Email</a> •  
   <a href="https://www.linkedin.com/in/resham-3b438a281/">💼 LinkedIn</a> •
   <a href="https://portfolio-three-chi-iwz6yy3ki4.vercel.app/">🌐 Portfolio</a> •
   <a href="https://codolio.com/profile/Resham298">🧩 Coding Profile</a>
