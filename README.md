@@ -130,12 +130,6 @@
 
 ## 💼 Experience
 
-**🔬 Project Trainee — DRDO (Defence Research and Development Organisation)**
-`May 2025 – July 2025 · Delhi, India`
-- Built **role-based authentication** and secure protocols for defense-grade systems
-- Developed **microservices** for real-time radar simulation and high-frequency data visualization
-- Optimized geospatial reporting workflows, reducing manual processing time
-
 **🌐 Web Content Intern — GAO Tek Inc.**
 `Aug 2024 – Oct 2024 · Remote`
 - Optimized **100+ product listings** for SEO using metadata and keyword analytics
