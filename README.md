@@ -20,7 +20,6 @@
 ## 👤 About Me
 
 - 🎓 **B.Tech CSE** @ Quantum University — CGPA **8.3** | Graduating **2026**
-- 🔬 Former **Project Trainee @ DRDO** — defense-grade microservices & radar simulation systems
 - 🧠 Specialized in **Generative AI · RAG · NLP · Computer Vision · LLM Applications**
 - 💻 **821+ LeetCode problems** | Global Rank **46,622 (Top 6%)** | Rating **1561**
 - 🏆 **Top 7 Finalist** — HackIndia Hackathon &nbsp;|&nbsp; **2nd Place** — Genesis Idea Open House 2023
