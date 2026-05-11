@@ -6,7 +6,7 @@
 
 <p align="center">
   I build production-grade AI systems — RAG pipelines, LLM applications, and intelligent full-stack products that solve real problems.
-</p>
+</p>    
 
 <p align="center">
   <a href="mailto:resham2987@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
